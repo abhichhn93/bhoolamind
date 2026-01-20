@@ -1,0 +1,3 @@
+# Core runtime (lightweight). Optional ML/voice/vector/dashboard deps live in
+# requirements-ml.txt to avoid heavy installs by default.
+huggingface-hub==0.24.7

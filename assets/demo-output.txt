@@ -1,0 +1,8 @@
+BhoolamMind demo output (terminal)
+
+Demo input: Had a funny realization - why do they call it rush hour when nobody's moving?
+Demo result:
+  Stored: True
+  Emotion: None
+  Bit-worthy: True
+  Interaction ID: 55
